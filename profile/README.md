@@ -1,4 +1,4 @@
-# 🧪❄️ islowLabs
+# 🧪❄️ KI-Labs
 
 **Chilling out complex problems, one experiment at a time.**
 
